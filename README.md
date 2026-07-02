@@ -1,5 +1,7 @@
-Privacy Policy
+#### Privacy Policy
+
 Last updated: [01/02/2026]
+
 Robert Vegas ("I", "we," "us," or "our") operates the  AI SideKick Fit mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
 
 ## Information Collection and Use
