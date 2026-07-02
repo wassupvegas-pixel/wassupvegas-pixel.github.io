@@ -3,7 +3,7 @@ Last updated: [01/02/2026]
 Robert Vegas ("I", "we," "us," or "our") operates the  AI SideKick Fit mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
 1. Information Collection and Use
 Personal Data Collected: We not collect, store, or share any personal data or personally identifiable information through this application.
-Including but not limited to:Meal and workout logs, Progress images, email address
+(Name, Email address, User ID, Photos / Videos, Health & Fitness)
 2. Third-Party Services
 Our app may use third-party services that collect information used to identify you.
 (Firebase Analytics, or Google storage).
