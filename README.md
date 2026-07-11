@@ -2,7 +2,7 @@
 
 Last updated: [01/02/2026]
 
-Robert Vegas ("I", "we," "us," or "our") operates the  AI SideKick Fit mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
+Robert Vegas ("I", "we," "us," or "our") operates the  AI SideKick Fit mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use this application.
 
 #### Information Collection and Use
 Personal Data Collected: We do our best not to collect, store, or share any personal data or personally identifiable information through this application.
